@@ -1,4 +1,4 @@
-# Corso Python Introduttivo 2023 di AIM
+# Corso Python 2026 di AIM
 
 ### Parte 1 - Come usare il materiale
 
