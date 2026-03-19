@@ -10,3 +10,10 @@ requires-python = ">=3.12"
 dependencies = ["pandas", "requests", "python-dotenv", "google-genai"]
 [project.optional-dependencies]
 dev = ["pytest", "black"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+# add the prompt to the package data
+"weda.data" = ["*.txt"]

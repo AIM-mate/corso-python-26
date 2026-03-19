@@ -1,3 +1,7 @@
+from dotenv import load_dotenv
+
+load_dotenv()
+
 from weda.scraping import get_weather_predictions
 
 if __name__ == "__main__":
