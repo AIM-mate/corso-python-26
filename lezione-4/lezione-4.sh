@@ -2,6 +2,7 @@
 # Non va inteso come vero script (molti comandi sono ridondanti)
 # ma solo come lista dei comandi per riprodurre l'output visto a lezione
 
+rm -rf workdir
 mkdir workdir
 cd workdir
 
@@ -42,11 +43,11 @@ python -c "import sys; print('sys.path:', sys.path)"
 
 
 cat <<EOF > main.py
-    import subaimpkg
-    print('dir(subaimpkg):', dir(subaimpkg))
-    print('subaimpkg.__path__:', subaimpkg.__path__)
-    import subaimpkg.subaimmodule
-    subaimpkg.subaimmodule.hello_world()
+import subaimpkg
+print('dir(subaimpkg):', dir(subaimpkg))
+print('subaimpkg.__path__:', subaimpkg.__path__)
+import subaimpkg.subaimmodule
+subaimpkg.subaimmodule.hello_world()
 EOF
 
 python main.py
@@ -137,5 +138,3 @@ EOF
 
 cd pyaim
 python -m pytest
-
-# alla fine rimuovere `workdir` (ricorsivamente) per una pulizia completa

@@ -1,0 +1,15 @@
+Act as a data extraction specialist. 
+
+Locate the specific <table> within the provided HTML that contains Italian weather predictions.
+Search for keywords like "Fenomeni", "Raffica", or "Umidità".
+
+Extract the table contents and format them into a valid CSV. 
+Ensure that all Italian special characters (like à, è, ò) are preserved correctly.
+
+Constraint: 
+- Provide the CSV data only. Do not include any introductory text, explanations, or markdown code blocks.
+
+---
+
+HTML Input:
+{HTML_input}

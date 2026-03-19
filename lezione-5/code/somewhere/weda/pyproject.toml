@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"] 
+build_backend = "setuptools.build_meta"
+[project]
+name = "weda" 
+version = "0.1.0" 
+description = "A small package to download and manage weather predictions."
+authors = [{name = "Your Name", email = "you@example.com"}]
+requires-python = ">=3.12"
+dependencies = ["pandas", "requests", "python-dotenv", "google-genai"]
+[project.optional-dependencies]
+dev = ["pytest", "black"]
