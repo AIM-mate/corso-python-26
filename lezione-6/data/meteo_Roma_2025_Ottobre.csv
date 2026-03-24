@@ -1,0 +1,32 @@
+city,year,month,Giorno G,T Media,T min,T max,Precip.,Umidità UR%,Vento Max,Raffica,Fenomeni,Info
+Roma,2025,Ottobre,1,18 °C,13 °C,24 °C,1 mm,68 %,-,7 km/h,Nessuno,>
+Roma,2025,Ottobre,2,15 °C,12 °C,21 °C,-,48 %,30 km/h,9 km/h,Nessuno,>
+Roma,2025,Ottobre,3,14 °C,9 °C,19 °C,-,39 %,31 km/h,13 km/h,Nessuno,>
+Roma,2025,Ottobre,4,15 °C,6 °C,20 °C,1 mm,51 %,-,11 km/h,Nessuno,>
+Roma,2025,Ottobre,5,19 °C,12 °C,24 °C,3 mm,63 %,-,11 km/h,,>
+Roma,2025,Ottobre,6,15 °C,10 °C,22 °C,-,51 %,-,8 km/h,Nessuno,>
+Roma,2025,Ottobre,7,16 °C,8 °C,23 °C,-,49 %,-,7 km/h,Nessuno,>
+Roma,2025,Ottobre,8,17 °C,11 °C,24 °C,-,52 %,-,5 km/h,Nessuno,>
+Roma,2025,Ottobre,9,17 °C,11 °C,24 °C,-,70 %,-,4 km/h,Nessuno,>
+Roma,2025,Ottobre,10,18 °C,13 °C,25 °C,-,74 %,-,3 km/h,Nessuno,>
+Roma,2025,Ottobre,11,18 °C,13 °C,25 °C,-,69 %,-,4 km/h,Nessuno,>
+Roma,2025,Ottobre,12,18 °C,13 °C,23 °C,-,69 %,-,5 km/h,Nessuno,>
+Roma,2025,Ottobre,13,18 °C,12 °C,24 °C,-,74 %,-,4 km/h,Nessuno,>
+Roma,2025,Ottobre,14,18 °C,12 °C,23 °C,0 mm,73 %,-,4 km/h,Nessuno,>
+Roma,2025,Ottobre,15,18 °C,15 °C,24 °C,1 mm,72 %,-,4 km/h,Nessuno,>
+Roma,2025,Ottobre,16,17 °C,12 °C,22 °C,0 mm,60 %,-,4 km/h,Nessuno,>
+Roma,2025,Ottobre,17,17 °C,14 °C,22 °C,0 mm,62 %,-,5 km/h,Nessuno,>
+Roma,2025,Ottobre,18,17 °C,12 °C,22 °C,0 mm,68 %,-,2 km/h,Nessuno,>
+Roma,2025,Ottobre,19,16 °C,11 °C,22 °C,-,70 %,-,4 km/h,Nessuno,>
+Roma,2025,Ottobre,20,17 °C,11 °C,21 °C,0 mm,71 %,-,8 km/h,Nessuno,>
+Roma,2025,Ottobre,21,18 °C,15 °C,22 °C,3 mm,72 %,-,9 km/h,,>
+Roma,2025,Ottobre,22,18 °C,14 °C,22 °C,1 mm,82 %,-,7 km/h,,>
+Roma,2025,Ottobre,23,20 °C,18 °C,24 °C,1 mm,78 %,31 km/h,11 km/h,,>
+Roma,2025,Ottobre,24,17 °C,12 °C,21 °C,0 mm,60 %,-,5 km/h,Nessuno,>
+Roma,2025,Ottobre,25,18 °C,15 °C,20 °C,9 mm,79 %,-,8 km/h,,>
+Roma,2025,Ottobre,26,18 °C,15 °C,20 °C,0 mm,79 %,15 km/h,9 km/h,Nessuno,>
+Roma,2025,Ottobre,27,15 °C,11 °C,19 °C,0 mm,74 %,-,6 km/h,,>
+Roma,2025,Ottobre,28,16 °C,10 °C,22 °C,-,73 %,-,7 km/h,Nessuno,>
+Roma,2025,Ottobre,29,17 °C,12 °C,21 °C,0 mm,71 %,-,9 km/h,Nessuno,>
+Roma,2025,Ottobre,30,20 °C,18 °C,22 °C,14 mm,72 %,-,10 km/h,,>
+Roma,2025,Ottobre,31,19 °C,16 °C,23 °C,1 mm,80 %,-,8 km/h,Nessuno,>

@@ -1,0 +1,32 @@
+city,year,month,Giorno G,T Media,T min,T max,Precip.,Umidità UR%,Vento Max,Raffica,Fenomeni,Info
+Roma,2025,Agosto,1,25 °C,20 °C,30 °C,-,63 %,-,6 km/h,Nessuno,>
+Roma,2025,Agosto,2,25 °C,20 °C,29 °C,1 mm,63 %,-,8 km/h,Nessuno,>
+Roma,2025,Agosto,3,24 °C,21 °C,27 °C,1 mm,61 %,-,9 km/h,,>
+Roma,2025,Agosto,4,24 °C,17 °C,31 °C,-,48 %,15 km/h,9 km/h,Nessuno,>
+Roma,2025,Agosto,5,25 °C,19 °C,33 °C,-,48 %,-,8 km/h,Nessuno,>
+Roma,2025,Agosto,6,26 °C,19 °C,31 °C,-,49 %,-,6 km/h,Nessuno,>
+Roma,2025,Agosto,7,27 °C,21 °C,32 °C,-,47 %,-,6 km/h,Nessuno,>
+Roma,2025,Agosto,8,28 °C,21 °C,36 °C,-,43 %,-,7 km/h,Nessuno,>
+Roma,2025,Agosto,9,29 °C,22 °C,35 °C,-,43 %,-,5 km/h,Nessuno,>
+Roma,2025,Agosto,10,29 °C,21 °C,36 °C,-,47 %,-,5 km/h,Nessuno,>
+Roma,2025,Agosto,11,31 °C,24 °C,37 °C,-,41 %,-,6 km/h,Nessuno,>
+Roma,2025,Agosto,12,30 °C,24 °C,37 °C,n/d,38 %,13 km/h,6 km/h,,>
+Roma,2025,Agosto,13,30 °C,23 °C,37 °C,-,39 %,-,6 km/h,Nessuno,>
+Roma,2025,Agosto,14,30 °C,23 °C,37 °C,1 mm,34 %,-,5 km/h,Nessuno,>
+Roma,2025,Agosto,15,28 °C,23 °C,33 °C,n/d,43 %,-,6 km/h,,>
+Roma,2025,Agosto,16,27 °C,20 °C,34 °C,-,46 %,-,6 km/h,Nessuno,>
+Roma,2025,Agosto,17,26 °C,22 °C,33 °C,0 mm,61 %,-,6 km/h,,>
+Roma,2025,Agosto,18,26 °C,19 °C,33 °C,0 mm,57 %,-,6 km/h,Nessuno,>
+Roma,2025,Agosto,19,26 °C,21 °C,31 °C,3 mm,58 %,17 km/h,6 km/h,Nessuno,>
+Roma,2025,Agosto,20,27 °C,21 °C,32 °C,9 mm,57 %,24 km/h,15 km/h,Nessuno,>
+Roma,2025,Agosto,21,25 °C,19 °C,29 °C,0 mm,74 %,28 km/h,10 km/h,,>
+Roma,2025,Agosto,22,24 °C,18 °C,29 °C,2 mm,61 %,-,5 km/h,,>
+Roma,2025,Agosto,23,25 °C,20 °C,30 °C,1 mm,64 %,-,6 km/h,Nessuno,>
+Roma,2025,Agosto,24,25 °C,22 °C,28 °C,-,70 %,-,6 km/h,Nessuno,>
+Roma,2025,Agosto,25,25 °C,20 °C,30 °C,0 mm,67 %,-,4 km/h,Nessuno,>
+Roma,2025,Agosto,26,26 °C,22 °C,30 °C,-,62 %,-,5 km/h,Nessuno,>
+Roma,2025,Agosto,27,26 °C,21 °C,31 °C,2 mm,67 %,-,6 km/h,Nessuno,>
+Roma,2025,Agosto,28,28 °C,22 °C,34 °C,6 mm,52 %,37 km/h,12 km/h,,>
+Roma,2025,Agosto,29,26 °C,23 °C,28 °C,6 mm,79 %,-,6 km/h,,>
+Roma,2025,Agosto,30,23 °C,21 °C,27 °C,5 mm,62 %,-,10 km/h,Nessuno,>
+Roma,2025,Agosto,31,22 °C,16 °C,28 °C,-,63 %,-,6 km/h,Nessuno,>

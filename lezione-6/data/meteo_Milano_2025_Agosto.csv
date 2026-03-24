@@ -1,0 +1,32 @@
+city,year,month,Giorno G,T Media,T min,T max,Precip.,Umidità UR%,Vento Max,Raffica,Fenomeni,Info
+Milano,2025,Agosto,1,24 °C,19 °C,28 °C,3 mm,65 %,22 km/h,6 km/h,,>
+Milano,2025,Agosto,2,21 °C,17 °C,25 °C,19 mm,78 %,-,5 km/h,,>
+Milano,2025,Agosto,3,22 °C,16 °C,28 °C,-,65 %,-,6 km/h,Nessuno,>
+Milano,2025,Agosto,4,23 °C,18 °C,29 °C,-,60 %,-,4 km/h,Nessuno,>
+Milano,2025,Agosto,5,24 °C,18 °C,30 °C,-,63 %,-,5 km/h,Nessuno,>
+Milano,2025,Agosto,6,25 °C,19 °C,29 °C,-,64 %,-,7 km/h,Nessuno,>
+Milano,2025,Agosto,7,25 °C,22 °C,30 °C,-,62 %,-,6 km/h,Nessuno,>
+Milano,2025,Agosto,8,26 °C,21 °C,33 °C,-,65 %,-,5 km/h,Nessuno,>
+Milano,2025,Agosto,9,28 °C,22 °C,34 °C,-,62 %,-,4 km/h,Nessuno,>
+Milano,2025,Agosto,10,29 °C,22 °C,35 °C,-,66 %,-,4 km/h,Nessuno,>
+Milano,2025,Agosto,11,29 °C,22 °C,35 °C,-,59 %,-,7 km/h,Nessuno,>
+Milano,2025,Agosto,12,30 °C,24 °C,34 °C,-,55 %,-,7 km/h,Nessuno,>
+Milano,2025,Agosto,13,30 °C,23 °C,35 °C,-,57 %,-,5 km/h,Nessuno,>
+Milano,2025,Agosto,14,29 °C,25 °C,35 °C,-,61 %,-,5 km/h,Nessuno,>
+Milano,2025,Agosto,15,29 °C,22 °C,35 °C,n/d,55 %,-,3 km/h,,>
+Milano,2025,Agosto,16,29 °C,21 °C,36 °C,0 mm,52 %,-,4 km/h,Nessuno,>
+Milano,2025,Agosto,17,28 °C,21 °C,34 °C,-,52 %,-,11 km/h,Nessuno,>
+Milano,2025,Agosto,18,27 °C,23 °C,32 °C,-,54 %,-,7 km/h,Nessuno,>
+Milano,2025,Agosto,19,26 °C,22 °C,31 °C,33 mm,58 %,-,6 km/h,,>
+Milano,2025,Agosto,20,22 °C,19 °C,25 °C,1 mm,84 %,-,4 km/h,,>
+Milano,2025,Agosto,21,21 °C,19 °C,27 °C,6 mm,81 %,15 km/h,5 km/h,,>
+Milano,2025,Agosto,22,23 °C,16 °C,29 °C,1 mm,69 %,-,7 km/h,Nessuno,>
+Milano,2025,Agosto,23,24 °C,21 °C,28 °C,0 mm,65 %,-,7 km/h,Nessuno,>
+Milano,2025,Agosto,24,21 °C,17 °C,24 °C,1 mm,77 %,-,9 km/h,,>
+Milano,2025,Agosto,25,22 °C,17 °C,27 °C,0 mm,72 %,-,3 km/h,Nessuno,>
+Milano,2025,Agosto,26,23 °C,18 °C,29 °C,-,69 %,-,3 km/h,Nessuno,>
+Milano,2025,Agosto,27,23 °C,22 °C,26 °C,2 mm,78 %,-,7 km/h,,>
+Milano,2025,Agosto,28,21 °C,19 °C,24 °C,29 mm,89 %,-,13 km/h,,>
+Milano,2025,Agosto,29,21 °C,19 °C,27 °C,5 mm,82 %,-,4 km/h,,>
+Milano,2025,Agosto,30,20 °C,16 °C,26 °C,5 mm,71 %,-,6 km/h,,>
+Milano,2025,Agosto,31,21 °C,14 °C,28 °C,-,68 %,-,5 km/h,Nessuno,>
